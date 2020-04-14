@@ -1,0 +1,10 @@
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\bin\Debug\Search DGridView.exe.config
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\bin\Debug\Search DGridView.exe
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\bin\Debug\Search DGridView.pdb
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\ResolveAssemblyReference.cache
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search_DGridView.Form1.resources
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search_DGridView.Properties.Resources.resources
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search DGridView.csproj.GenerateResource.Cache
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search DGridView.exe
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search DGridView.pdb
+C:\DATAGRID VIEW\Search DGridView\Search DGridView\obj\Debug\Search_DGridView.Form2.resources
